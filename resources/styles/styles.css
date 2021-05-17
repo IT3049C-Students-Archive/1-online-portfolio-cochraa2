@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  color: whitesmoke;
+}
+
+div.section{
+  display: inline-grid;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+ol {
+  text-align: center;
+  list-style-position: inside;
+}
